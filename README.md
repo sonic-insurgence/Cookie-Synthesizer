@@ -8,15 +8,15 @@ and the arrangement of components.
 The circuit is basically the same as the Shruthi-Digital-v08 with a Shruthi-Analog-SVF-v03 
 filter board.
 
+### User Manual
+Have a look at the [user manual of the original Shruthi-1](https://mutable-instruments.net/archive/shruthi/manual/).
+
 ### Software
 The Cookie provides full software compatibility with the Shruthi-1. You can flash the 
 microcontroller with the original firmware from MI or with an alternative firmware by 
 bjoeri.
 * https://github.com/pichenettes/shruthi-1
 * https://github.com/bjoeri/shruthi-1/tree/master/yam_firmware_builds
-
-Have a look into the [user manual of the original Shruthi-1]
-(https://mutable-instruments.net/archive/shruthi/manual/).
 
 ### Authors
 * Author of the derived work, i. e. the Cookie synthesizer, is Sonic Insurgence.
