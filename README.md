@@ -5,7 +5,7 @@ It is derived from the Shruthi-1 DIY synthesizer by Émilie Gillet
 from Mutable Instruments.
 Slight modifications have been carried out concerning the PCB form factor, the track layout 
 and the arrangement of components.
-The circuit is basically the same as the Shruthi-Digital-v08 with a Shruthi-Analog-SVF-v03 
+The circuit is basically the same as the Shruthi-Digital-v08 with a Shruthi-Analog-SMR4-mkII-v02 
 filter board.
 
 ### User Manual
