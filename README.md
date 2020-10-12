@@ -35,9 +35,7 @@ YAM by bjoeri. The software provided in this repository is a slight modification
 ### Authors
 * Author of the derived work, i. e. the Cookie synthesizer, is Sonic Insurgence.
 * Author of the original work, i. e. the Shruthi-1 synthesizer, is Émilie Gillet.
-See https://github.com/pichenettes/shruthi-1 for details.
 * Author of the alternative firmware YAM is bjoeri.
-See https://github.com/bjoeri/shruthi-1
 
 
 
